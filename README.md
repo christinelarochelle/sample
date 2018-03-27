@@ -6,3 +6,7 @@
 
 * Point1
 * Point2
+
+'''
+print "Hello World"
+'''
